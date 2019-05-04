@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html>
-<h1>To-Do List App</h1>
   <div id="app">
     <div class="container">
       <div class="add">
-
+        <input type="text" id="add" name="add" onclick="uodateList()">
       </div>
       <div class="list">
+        <ul id="list">
+
+        </ul>
 
       </div>
       <div class="search">
-        
+        <input type="text" id="search" name="search" onclick="showItem()">
       </div>
       <div class="result">
-        
+        <ul id="result">
+          
+        </ul>
       </div>
     </div>
   </div>
