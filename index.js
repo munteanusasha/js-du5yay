@@ -13,5 +13,8 @@ function updateList(item){
   todolist.push({id: countId ++, listitem: item});
 }
 
+function showItem(result){
+  result = document.getElementById('search');
+}
 const containerDiv = document.getElementsByClassName('container');
 containerDiv.innerHTML= '<li>hello </li>';
