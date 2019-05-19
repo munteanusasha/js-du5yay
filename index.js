@@ -15,6 +15,5 @@ function updateList(item){
 
 function showItem(result){
   result = document.getElementById('search');
+  result.innerHTML = item;
 }
-const containerDiv = document.getElementsByClassName('container');
-containerDiv.innerHTML= '<li>hello </li>';
