@@ -15,5 +15,5 @@ function updateList(item){
 
 function showItem(result){
   result = document.getElementById('search');
-    result.innerHTML = todolist[i];
+  result.innerHTML = todolist[];
 }
