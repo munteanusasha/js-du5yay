@@ -2,6 +2,11 @@
 // https://eloquent-javascript.karmazzin.ru/
 // dd command https://vitux.com/how-to-create-a-bootable-usb-stick-from-the-ubuntu-terminal/
 // https://www.linux.com/training-tutorials/how-burn-iso-usb-drive/
+
+//Game "SCORN"
+
+// LLF Ubuntu https://www.dedoimedo.com/computers/low-level-formatting.html
+
 // Import stylesheets
 import './style.css';
 
