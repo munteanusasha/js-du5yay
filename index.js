@@ -1,3 +1,6 @@
+// Very good book of Javascript
+// https://eloquent-javascript.karmazzin.ru/
+
 // Import stylesheets
 import './style.css';
 
