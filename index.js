@@ -1,6 +1,6 @@
 // Very good book of Javascript
 // https://eloquent-javascript.karmazzin.ru/
-
+// dd command https://vitux.com/how-to-create-a-bootable-usb-stick-from-the-ubuntu-terminal/
 // Import stylesheets
 import './style.css';
 
