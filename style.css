@@ -1,19 +1,5 @@
-body{
-  text-align: center;
-  background-color: #faf6f2;
-  color: rgb(125, 125, 155);
-  padding: 5px;
-  margin-left: 100px;
-  margin-right: 100px;
-  border: 1px solid rgb(97, 10, 196);
-}
+
 
 h1, h2 {
   font-family: Lato;
-}
-
-.add .search{
-  background-color: rgb(216, 216, 230);
-  width:350px;
-  border: 1px solid rgb(97, 10, 196);
 }
