@@ -8,11 +8,10 @@ add.addEventListener("click",()=>{
 });
 
 
-let lists = document.getElementsByClassName('list-item');
+
 search.addEventListener('click',()=>{
-  // console.log('click');
+  let lists = document.getElementsByClassName('list-item');
   for(let i=0; i<lists.length; i++){
-    // console.log(lists[i]);
     if(item.value==lists[i]){
       console.log(lists[i]);
     }
