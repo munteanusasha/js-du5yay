@@ -13,7 +13,7 @@ search.addEventListener('click',()=>{
   // console.log('click');
   for(let i=0; i<lists.length; i++){
     // console.log(lists[i]);
-    if(item.value==lists[i].text()){
+    if(item.value==lists[i]){
       console.log(lists[i]);
     }
   }
