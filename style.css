@@ -1,7 +1,14 @@
 body{
   position:absolute;
 }
-
+/* button{
+  opacity: transparent;
+  position: relative;
+  top: 15px;
+}
+input{
+  display: block;
+} */
 h1, h2 {
   font-family: Lato;
 }
