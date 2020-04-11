@@ -13,9 +13,9 @@ search.addEventListener('click',()=>{
   console.clear();
   let lists = document.getElementsByClassName('list-item');
   for(let i=0; i<lists.length; i++){
-    // if(item.value===lists[i]){
+    if(item.value===lists[i].textContent){
+      list.append(lists[i].textContent);
       // console.log(lists[i]);
-    // }
-    console.log(lists[i]);
+    }
   }
 });
