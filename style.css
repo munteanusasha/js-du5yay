@@ -1,15 +1,17 @@
 body{
-  position:absolute;
-}
-/* button{
-  opacity: transparent;
-  position: relative;
-  top: 15px;
-}
-input{
-  display: block;
-} */
-h1, h2 {
+  position: fixed;
   font-family: Lato;
 }
+.app{
+  width: 50%;
+  height: auto;
+  position: relative;
+  margin: 25%;
+}
+
+
+
+/* h1, h2 {
+  font-family: Lato;
+} */
 
